@@ -1,3 +1,4 @@
+path: ../drive/MyDrive/PokerHandDetector
 train: ../train/images
 val: ../valid/images
 test: ../test/images
